@@ -1,0 +1,12 @@
+,,,,,
+,COUTS,Freeze,Fresh,Sec,Relais
+,Collecte (au colis),0.2,0.2,0.0,0.0
+,Tri (au colis),0.67,0.67,0.31,0.31
+,Manutention Hub (au colis),,,0.42,0.42
+,Acheminement (au kg),,,,
+,Distribution (au point),,,1.96,0.38
+,Coût Pick-Up (au colis),,,,
+,Coût Pick-Up (au kg),,,,
+,Support (au colis),,,,
+,Branding (au colis),,,,
+,Carboglace (au colis),,,,
